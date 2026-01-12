@@ -1,0 +1,7 @@
+{
+  "name": "Professional Portfolio & Admin Dashboard",
+  "description": "A comprehensive personal portfolio website with a built-in admin panel powered by Firebase for content management, including Google Authentication, Firestore, and Storage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
